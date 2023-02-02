@@ -10,6 +10,6 @@ public class Stamps {
         int Susan_Stamps = 8;
         // the best way to figure out the differences in the stamps is to subtract the greatest number by the smallest
         int Differences = Jean_Stamps - Susan_Stamps;
-        System.out.print(" The differences in stamps between Jean ans Susan is " + Differences + " stamps");
+        System.out.print(" The differences in stamps between Jean and Susan is " + Differences + " stamps.");
     }
 }
